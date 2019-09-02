@@ -11,7 +11,7 @@ Certification can increase your visibility, differentiate you from your peers, a
  * The exam may contain any of the following questions samples:
  
  | Type | Details | Video & Time|
- |--- | --- | --- | --- | --- |
+ |--- | --- | --- | --- |
  | Active screen | This tutorial demonstrates how the Active Screen question type works including how to select answers. | [0:44](https://github.com/rramoscabral/Microsoft-Training-CertificationExams/blob/master/Videos/01.%20Microsoft%20Certification%20Exam%20Active%20Screen%20Tutorial.mp4?raw=true) |
  | Best answer | This tutorial shows the Best Answer question type and how to select an answer. | [0:20](https://github.com/rramoscabral/Microsoft-Training-CertificationExams/blob/master/Videos/02.%20Microsoft%20Certification%20Exam%20Best%20Answer%20Tutorial.mp4?raw=true) |
  | Build list | This tutorial demonstrates how the Build List question type works including how to select and order answers. | [0:45](https://github.com/rramoscabral/Microsoft-Training-CertificationExams/blob/master/Videos/03.%20Microsoft%20Certification%20Exam%20Build%20List%20Tutorial.mp4?raw=true) |
