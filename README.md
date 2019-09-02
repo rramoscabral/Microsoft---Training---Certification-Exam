@@ -26,6 +26,6 @@ Certification can increase your visibility, differentiate you from your peers, a
     
 
 ### Certification exams
-[Certification exams list](https://www.microsoft.com/en-us/learning/exam-list.aspx)
-[Exams scheduled to retire](https://www.microsoft.com/en-us/learning/retired-certification-exams.aspx)
-[Exam policies and FAQs](https://www.microsoft.com/en-us/learning/certification-exam-policies.aspx)
+* [Certification exams list](https://www.microsoft.com/en-us/learning/exam-list.aspx)
+* [Exams scheduled to retire](https://www.microsoft.com/en-us/learning/retired-certification-exams.aspx)
+* [Exam policies and FAQs](https://www.microsoft.com/en-us/learning/certification-exam-policies.aspx)
