@@ -4,6 +4,13 @@ Microsoft Certification exams
 Microsoft Certification can take you from the start of your career to its pinnacle.   
 Certification can increase your visibility, differentiate you from your peers, and validate your knowledge and skills.
 
+<br/>
+
+### How many questions will there be on the exam?
+ * The number of questions on an exam is subject to change as we update it over time to keep current changes in the technology and job role. 
+ * Most Microsoft Certification exams contain between 40-60 questions; however, the number can vary depending on the exam.
+
+<br/>
 
 ### Exam formats and question types
  * To protect exam security and the value of our certifications, we do not identify exam formats or question types before the exam.
@@ -24,8 +31,48 @@ Certification can increase your visibility, differentiate you from your peers, a
  | Mark review | This tutorial demonstrates how the Short Answer question type works including how to provide an answer response. | [0:33](https://github.com/rramoscabral/Microsoft-Training-CertificationExams/blob/master/Videos/10.%20Microsoft%20Certification%20Exam%20Mark%20for%20Review%20Tutorial.mp4?raw=true) |
  | Review screen | This tutorial demonstrates how to navigate through a Review Screen including how to review questions by filtering on categories. | [1:36](https://github.com/rramoscabral/Microsoft-Training-CertificationExams/blob/master/Videos/11.%20Microsoft%20Certification%20Exam%20Review%20Screen%20Tutorial.mp4?raw=true) |
     
+<br/>
 
-### Certification exams
+### How much time will I have to complete the exam?
+Exam time varies based on the type of exam you take.
+
+| Exam type | Exam time* | Seat time* |
+| --- | --- | :---: |
+| Associate and expert job role exams  | 	150 minutes  | 	180 minutes |
+| Job role fundamentals exams  | 	60 minutes |  	90 minutes |
+| Associate and expert job role exams that contain labs  | 	180 minutes  | 	210 minutes |
+| MTA exams delivered by Certiport  | 	45 minutes  | 	50 minutes |
+| MTA exams delivered by Pearson VUE  | 	45 minutes  | 	80 minutes |
+| Dynamics exams with (with MB#-nnn numbering)  | 	120 minutes  | 	150 minutes |
+| All other 70-nnn exams  | 	150 minutes  | 	180 minutes |
+| MCSA exams  | 	120 minutes  | 	150 minutes |
+| MCSE exams  | 	150 minutes  | 	180 minutes |
+
+***Note** Exam time refers to the amount of time that you have to complete the exam. Seat time refers to the amount of time that you should allocate for the exam. It includes the time needed to review the instructions, read and accept the NDA, complete the exam questions, and provide comments after completing it (if you choose to do so).
+
+[Source](https://docs.microsoft.com/en-us/learn/certifications/certification-exam-policies) 
+
+<br/>
+
+### Certification exams list
 * [Certification exams list](https://www.microsoft.com/en-us/learning/exam-list.aspx)
+
+<br/>
+
+### Certification exams schedule to retire
 * [Exams scheduled to retire](https://www.microsoft.com/en-us/learning/retired-certification-exams.aspx)
+
+<br/>
+
+### Exam Polices and FAQs
+* [Exam policies and FAQs (Recomended and Updated)](https://docs.microsoft.com/en-us/learn/certifications/certification-exam-policies)
 * [Exam policies and FAQs](https://www.microsoft.com/en-us/learning/certification-exam-policies.aspx)
+
+<br/>
+
+### Microsoft training and certification help
+ * [Certification support forums](https://aka.ms/MCPForum)
+ * [Microsoft Official Courses (MOC) Support request form](https://support.microsoft.com/en-us/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en&SC=US)
+ * Microsoft Official Courses (MOC) Support request Telephone Number: 
+    * EMEA: +442076606016 
+    * US: (855) 507-6283 - Monday through Friday: 4:30 A.M.–5:00 P.M. Pacific Time
