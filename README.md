@@ -1,4 +1,4 @@
-## Microsoft-Training-CertificationExams
+## Microsoft - Training - Certification Exams
 Microsoft Certification exams
 
 Microsoft Certification can take you from the start of your career to its pinnacle.   
