@@ -1,5 +1,5 @@
-## Microsoft - Training - Certification Exams
-Microsoft Certification exams
+## Microsoft - Training - Certification Exam
+Microsoft Certification exam
 
 Microsoft Certification can take you from the start of your career to its pinnacle.   
 Certification can increase your visibility, differentiate you from your peers, and validate your knowledge and skills.
