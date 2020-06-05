@@ -6,11 +6,13 @@ Certification can increase your visibility, differentiate you from your peers, a
 
 <br/>
 
+
 ## How many questions will there be on the exam?
  * The number of questions on an exam is subject to change as we update it over time to keep current changes in the technology and job role. 
  * Most Microsoft Certification exams contain between 40-60 questions; however, the number can vary depending on the exam.
 
 <br/>
+
 
 ## Exam formats and question types
  * To protect exam security and the value of our certifications, we do not identify exam formats or question types before the exam.
@@ -34,6 +36,7 @@ Certification can increase your visibility, differentiate you from your peers, a
     
 <br/>
 
+
 ## How much time will I have to complete the exam?
 Exam time varies based on the type of exam you take.
 
@@ -55,19 +58,15 @@ Exam time varies based on the type of exam you take.
 
 <br/>
 
+
 ## Certification exams list
 * [Certification exams list](https://www.microsoft.com/en-us/learning/exam-list.aspx)
 
 <br/>
 
+
 ## Certification exams schedule to retire
 * [Exams scheduled to retire](https://www.microsoft.com/en-us/learning/retired-certification-exams.aspx)
-
-<br/>
-
-## Exam Polices and FAQs
-* [Exam policies and FAQs (Recomended and Updated)](https://docs.microsoft.com/en-us/learn/certifications/certification-exam-policies)
-* [Exam policies and FAQs](https://www.microsoft.com/en-us/learning/certification-exam-policies.aspx)
 
 <br/>
 
@@ -81,8 +80,14 @@ Exam time varies based on the type of exam you take.
 *  [Candidate Rules Agreement](https://www.pearsonvue.com/rp/rp_candidate_rules_agreement.pdf)
 * [FAQ](https://docs.microsoft.com/en-us/learn/certifications/online-exams)
 
+<br/>
+
+## Exam Polices and FAQs
+* [Exam policies and FAQs (Recomended and Updated)](https://docs.microsoft.com/en-us/learn/certifications/certification-exam-policies)
+* [Exam policies and FAQs](https://www.microsoft.com/en-us/learning/certification-exam-policies.aspx)
 
 <br/>
+
 
 ## Microsoft training and certification help
  * [Certification support forums](https://aka.ms/MCPForum)
