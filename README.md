@@ -1,4 +1,4 @@
-## Microsoft - Training - Certification Exam
+# Microsoft - Training - Certification Exam
 Microsoft Certification exam
 
 Microsoft Certification can take you from the start of your career to its pinnacle.   
@@ -6,13 +6,13 @@ Certification can increase your visibility, differentiate you from your peers, a
 
 <br/>
 
-### How many questions will there be on the exam?
+## How many questions will there be on the exam?
  * The number of questions on an exam is subject to change as we update it over time to keep current changes in the technology and job role. 
  * Most Microsoft Certification exams contain between 40-60 questions; however, the number can vary depending on the exam.
 
 <br/>
 
-### Exam formats and question types
+## Exam formats and question types
  * To protect exam security and the value of our certifications, we do not identify exam formats or question types before the exam.
  * Microsoft continually introduces innovative testing technologies and question types and reserves the right to incorporate either into exams at any time without advance notice. 
  * The exam may contain any of the following questions samples:
@@ -30,10 +30,11 @@ Certification can increase your visibility, differentiate you from your peers, a
  | Short answer | This tutorial demonstrates how the Short Answer question type works including how to provide an answer response. | [0:29](https://github.com/rramoscabral/Microsoft-Training-CertificationExams/blob/master/Videos/09.%20Microsoft%20Certification%20Exam%20Short%20Answer%20Tutorial.mp4?raw=true) |
  | Mark review | This tutorial demonstrates how the Short Answer question type works including how to provide an answer response. | [0:33](https://github.com/rramoscabral/Microsoft-Training-CertificationExams/blob/master/Videos/10.%20Microsoft%20Certification%20Exam%20Mark%20for%20Review%20Tutorial.mp4?raw=true) |
  | Review screen | This tutorial demonstrates how to navigate through a Review Screen including how to review questions by filtering on categories. | [1:36](https://github.com/rramoscabral/Microsoft-Training-CertificationExams/blob/master/Videos/11.%20Microsoft%20Certification%20Exam%20Review%20Screen%20Tutorial.mp4?raw=true) |
+ | Labs | This tutorial demonstrates how to execute pratical lab. | [2:58](https://github.com/rramoscabral/Microsoft---Training---Certification-Exam/blob/master/Videos/12.%20Microsoft%20Certification%20Exam%20Labs.mp4?raw=true) |
     
 <br/>
 
-### How much time will I have to complete the exam?
+## How much time will I have to complete the exam?
 Exam time varies based on the type of exam you take.
 
 | Exam type | Exam time* | Seat time* |
@@ -54,23 +55,36 @@ Exam time varies based on the type of exam you take.
 
 <br/>
 
-### Certification exams list
+## Certification exams list
 * [Certification exams list](https://www.microsoft.com/en-us/learning/exam-list.aspx)
 
 <br/>
 
-### Certification exams schedule to retire
+## Certification exams schedule to retire
 * [Exams scheduled to retire](https://www.microsoft.com/en-us/learning/retired-certification-exams.aspx)
 
 <br/>
 
-### Exam Polices and FAQs
+## Exam Polices and FAQs
 * [Exam policies and FAQs (Recomended and Updated)](https://docs.microsoft.com/en-us/learn/certifications/certification-exam-policies)
 * [Exam policies and FAQs](https://www.microsoft.com/en-us/learning/certification-exam-policies.aspx)
 
 <br/>
 
-### Microsoft training and certification help
+
+## Online exams with Pearson VUE
+* [Pearson VUE: Microsoft OnVUE exam information](https://home.pearsonvue.com/Clients/Microsoft/Online-proctored.aspx)
+* [OnVUE Testing Experience](https://youtu.be/Gm1PqdbwBP0)
+* [Taking an Online Proctored Microsoft Certification Exam](https://youtu.be/RI9XxzY7ePk)
+* **Before you register for an online exam** [run system test](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT)
+    * [Recommended Specifications](https://home.pearsonvue.com/op/OnVUE-min-specs-Network-Admin-Requirements)
+*  [Candidate Rules Agreement](https://www.pearsonvue.com/rp/rp_candidate_rules_agreement.pdf)
+* [FAQ](https://docs.microsoft.com/en-us/learn/certifications/online-exams)
+
+
+<br/>
+
+## Microsoft training and certification help
  * [Certification support forums](https://aka.ms/MCPForum)
  * [Microsoft Official Courses (MOC) Support request form](https://support.microsoft.com/en-us/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en&SC=US)
  * Microsoft Official Courses (MOC) Support request Telephone Number: 
